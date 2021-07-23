@@ -3,7 +3,6 @@
         <main class="form-signin">
           <form>
             <h1 class="h3 mb-3 fw-normal text-center pt-4">Please sign in</h1>
-
             <div class="form-floating">
               <input
                 type="email"
@@ -22,7 +21,6 @@
               />
               <label for="floatingPassword">Password</label>
             </div>
-
             <button class="w-100 btn btn-sm btn-primary" type="submit">
               Login
             </button>

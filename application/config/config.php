@@ -23,7 +23,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://lit_msc_php.com/';
+
+$config['base_url'] = 'http://localhost/LIT_MSC_PHP/';
+
 
 /*
 |--------------------------------------------------------------------------
